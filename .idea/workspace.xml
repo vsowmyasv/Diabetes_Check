@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c3b82e-52a1-4d87-acf9-6e4ca9bb7582" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XSmVoP5rWVK6YZiahNbYxX1jOW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../House_Prices" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ayush\PycharmProjects\Diabetes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diabetes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diabetes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.diabetes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c3b82e-52a1-4d87-acf9-6e4ca9bb7582" name="Default Changelist" comment="" />
+      <created>1581047896071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581047896071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="30" key="#Notifications" timestamp="1581135873958">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="261" y="30" key="#Notifications/0.30.1536.834@0.30.1536.834" timestamp="1581135873958" />
+    <state x="499" y="145" key="FileChooserDialogImpl" timestamp="1581143286310">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="499" y="145" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1581143286310" />
+    <state width="559" height="598" key="GridCell.Tab.0.bottom" timestamp="1581433670364">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="559" height="598" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1581433670364" />
+    <state width="559" height="598" key="GridCell.Tab.0.center" timestamp="1581433670364">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="559" height="598" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1581433670364" />
+    <state width="559" height="598" key="GridCell.Tab.0.left" timestamp="1581433670364">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="559" height="598" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1581433670364" />
+    <state width="559" height="598" key="GridCell.Tab.0.right" timestamp="1581433670364">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="559" height="598" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1581433670364" />
+    <state x="154" y="30" key="SettingsEditor" timestamp="1581430909261">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="154" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1581430909261" />
+    <state x="347" y="30" width="840" height="832" key="search.everywhere.popup" timestamp="1581078586748">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="347" y="30" width="840" height="832" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1581078586748" />
+  </component>
+</project>
