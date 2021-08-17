@@ -21,7 +21,7 @@ This project aims to predict diabetes via three different supervised machine lea
 
 # _The architecture_
 
-![The architecture](https://raw.githubusercontent.com/CodeFellas2021/GrabScrap/main/Architecture.jpeg)
+![The architecture](https://github.com/vsowmyasv/Diabetes_Check/blob/main/ARCHITECTURE.png)
 
 # _Long description_
 
